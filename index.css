@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+}
+
+.row_tiles_container {
+	clear: both;
+}
+
+.tile {
+	float: left;
+	height: 48px;
+	width: 48px;
+}
